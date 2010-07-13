@@ -1,7 +1,9 @@
 Project Title: JUnit4 minimal
 Description: A minimal example. Demonstrates how to make use of JUnit4 and Maven
+Project URL: git://github.com/sastay/JUnit4-and-Maven-Example.git
+
 Author: Sascha Tayefeh
-URL: http://www.tayefeh.de
+Author URL: http://www.tayefeh.de
 Date: 2010-07-10
 
 When I migrated an old project from JUnit3 to JUnit4, I ran into some problems.
