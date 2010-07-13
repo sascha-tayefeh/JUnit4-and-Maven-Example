@@ -1,5 +1,5 @@
-Project Title: JUnit4 minimal
-Description: A minimal example. Demonstrates how to make use of JUnit4 and Maven
+Project Title: JUnit4 and Maven Example
+Description: A minimal example. Demonstrates how to use JUnit4 and Maven
 Project URL: git://github.com/sastay/JUnit4-and-Maven-Example.git
 
 Author: Sascha Tayefeh
